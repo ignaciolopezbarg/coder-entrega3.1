@@ -52,6 +52,7 @@ const mostrarCarrito = () => {
 
     carrito.forEach((producto) => {
       const li = document.createElement("li");
+      //cambios
       li.innerHTML = `
 			<img src="${producto.imagen}" alt="${producto.nombre}" />
 			<div class="productContent">

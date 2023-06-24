@@ -106,3 +106,6 @@ footer p {
 	text-transform: uppercase;
 	text-align: center;
 }
+footer{
+	background-color: #ccc;
+}
